@@ -1,1 +1,1 @@
-# Java-project
+Electricity Billing System
